@@ -1,6 +1,7 @@
-node_modules
 .env
+node_modules/
+logs/
+
 firestore-segunda-entrega-firebase-adminsdk-uekri-37f0623635.json
 todo.txt
 todo-final.txt
-logs

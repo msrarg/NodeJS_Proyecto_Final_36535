@@ -1,0 +1,39 @@
+{
+  "name": "proyecto-final-nodejs-36535",
+  "version": "1.0.0",
+  "description": "Proyecto Final de Programación Backend con NodeJS - comision 36535 - CoderHouse",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msrarg/NodeJS_Proyecto_Final_36535.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Mauricio Simon Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msrarg/NodeJS_Proyecto_Final_36535/issues"
+  },
+  "homepage": "https://github.com/msrarg/NodeJS_Proyecto_Final_36535#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.5.5",
+    "multer": "^1.4.5-lts.1",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "twilio": "^3.82.0",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
