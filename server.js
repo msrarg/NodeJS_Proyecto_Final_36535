@@ -50,7 +50,7 @@ app.use(routeHelper.checkRoute);
 database.connect();
 
 if (cluster.isPrimary && process.env.CLUSTER_MODE === true) {
-  console.log("Inicializando en modo cluster");
+  console.log("Cluster Mode");
   for (let i = 0; i < cpuQuantity; i++) {
     cluster.fork();
   }

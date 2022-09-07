@@ -9,7 +9,7 @@ async function connect() {
     );
     return connection;
   } catch (error) {
-    throw `Hubo un error al conectarse a la base de datos mongo: ${error}`;
+    throw `ERROR: No se pudo establecer la conexión a la base de datos mongo: ${error}`;
   }
 }
 
