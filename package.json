@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-36535-proyecto-final",
+  "name": "proyecto-final-nodejs-36535",
   "version": "1.0.0",
   "description": "Proyecto final NodeJS de la comision 36535 de CoderHouse",
   "main": "server.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomas95go/nodejs-36535-proyecto-final.git"
+    "url": "git+https://github.com/msrarg/NodeJS_Proyecto_Final_36535.git"
   },
   "keywords": [
     "NodeJS",
     "Express"
   ],
-  "author": "Gonzalez Oviedo Tomas",
+  "author": "Mauricio Simón Rodriguez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tomas95go/nodejs-36535-proyecto-final/issues"
