@@ -5,7 +5,9 @@
    a. Ejecutar "npm start" la aplicación se ejecutará con el comando "node server.js".
    b. Ejecutar "npm run dev" la aplicación se ejecutará con el comando "nodemon server.js".
 
-## Probar el programa en Heroku
+## Probar el programa en Heroku  
+
+URL https://proyecto-final-nodejs-36535.herokuapp.com/
 
 1. Tener el programa POSTMAN instalado.
 2. Importar la colleción "Proyecto_Final_NodeJS_36535.postman_collection.json".
